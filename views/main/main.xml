@@ -1,0 +1,5 @@
+<Page loaded="pageLoaded">
+  <Page.actionBar>
+    <ActionBar title="Empty project"></ActionBar>
+  </Page.actionBar>
+</Page>

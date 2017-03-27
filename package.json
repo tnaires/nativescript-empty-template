@@ -1,0 +1,7 @@
+{
+  "name": "nativescript-empty-template",
+  "main": "app.js",
+  "version": "1.0.0",
+  "author": "Tarso Nunes Aires",
+  "description": "Template for an empty Nativescript project"
+}
